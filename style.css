@@ -23,17 +23,24 @@ body{
    justify-content: center;
    align-items: center;
    flex-direction: column;
+/*   background-color: pink;*/
 }
 
 .card{
+    display: flex;
     padding: 15px;
     border-radius: 20px;
-    margin: 10%;
+    margin: auto ;
     margin-bottom: 0;
+/*    background-color: orange;*/
+   flex-direction: column;
+   width: 300px;
 }
 
 .card img{
     border-radius: 20px;
+    align-items: center;
+    width: 100%;
 }
 
 

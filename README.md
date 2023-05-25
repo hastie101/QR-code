@@ -50,7 +50,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   
   
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 
 ### Links

@@ -45,7 +45,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./Screenshots/Mobile%20view.jpeg)
 
-![](./Screenshots/PC view.png)
+![](./Screenshots/PC%20view.png)
 
   
   

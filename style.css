@@ -8,6 +8,9 @@
 
 *{
     font-family: 'Outfit', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 
 }
 
@@ -19,8 +22,8 @@ body{
     align-items: center;
     flex: content;
     position: relative;
-    height: calc(100vh - 1px);
-    margin: 1.25rem;
+    height: calc(100vh - 2px);
+    /* margin: 1.25rem; */
 }
 
 .container{
